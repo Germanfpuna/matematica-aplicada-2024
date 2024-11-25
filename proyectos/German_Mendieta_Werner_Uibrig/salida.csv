@@ -1,5 +1,5 @@
-text,sentiment,positive_score,negative_score,positive_fuzzy_Low,positive_fuzzy_Medium,positive_fuzzy_High,negative_fuzzy_Low,negative_fuzzy_Medium,negative_fuzzy_High,fuzzy_output,defuzzified_value,final_sentiment
-i love my kindle not that the dx is cool but the is fantastic in it is own right,1,0.446,0.0,0.0,0.5768945211191685,0.4231054788808316,0.0,0.0,0.0,0.0,5.836671673676079,Neutral
+Original_text,sentiment,positive_score,negative_score,positive_fuzzy_Low,positive_fuzzy_Medium,positive_fuzzy_High,negative_fuzzy_Low,negative_fuzzy_Medium,negative_fuzzy_High,fuzzy_output,defuzzified_value,final_sentiment
+i loooooooovvvvvveee my kindle not that the dx is cool but the is fantastic in its own right,1,0.446,0.0,0.0,0.5768945211191685,0.4231054788808316,0.0,0.0,0.0,0.0,5.836671673676079,Neutral
 reading my kindle love it lee childs is good read,1,0.47,0.0,0.0,0.5418427021144595,0.45815729788554055,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
 ok first assesment of the kindle it fucking rocks,1,0.216,0.0,0.0,0.9128077865809628,0.08719221341903727,0.0,0.0,0.0,0.0,5.836671673676072,Neutral
 you ll love your kindle i ve had mine for a few months and never looked back the new big one is huge no need for remorse,1,0.204,0.135,0.0,0.9303336960833174,0.06966630391668277,0.13627331295723683,0.8637266870427631,0.0,0.44146030671074543,5.076834093950523,Neutral
@@ -13,7 +13,7 @@ i firmly believe that obama pelosi have zero desire to be civil it s a charade a
 house correspondents dinner was last night whoopi barbara amp sherri went obama got a standing ovation,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 watchin espn jus seen this new nike commerical with a puppet lebron sh t was hilarious lmao,1,0.337,0.0,0.0,0.7360881990988885,0.2639118009011117,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 dear nike stop with the flywire that shit is a waste of science and ugly love,0,0.245,0.43,0.0,0.8704535052836061,0.12954649471639396,0.0,0.6002624004556412,0.39973759954435895,0.0,5.3179043894835925,Neutral
-lebron best athlete of our generation if not all time basketball related i don t want to get into inter sport debates about,1,0.224,0.0,0.0,0.9011238469127265,0.09887615308727361,0.0,0.0,0.0,0.0,5.83667167367607,Neutral
+lebron best athlete of our generation if not all time basketball related i don t want to get into inter sport debates about __,1,0.224,0.0,0.0,0.9011238469127265,0.09887615308727361,0.0,0.0,0.0,0.0,5.83667167367607,Neutral
 i was talking to this guy last night and he was telling me that he is a die hard spurs fan he also told me that he hates lebron james,0,0.067,0.238,0.5713356442084064,0.42866435579159357,0.0,0.0,0.8806769524933129,0.11932304750668715,0.0,4.163271681961443,Neutral
 i love lebron,1,0.808,0.0,0.0,0.04819625113147472,0.9518037488685253,0.0,0.0,0.0,0.0,8.08900855960862,Positivo
 lebron is a beast but i m still cheering the a til the end,0,0.331,0.0,0.0,0.7448511538500657,0.25514884614993444,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
@@ -31,14 +31,14 @@ i current use the nikon d and love it but not as much as the canon d d i chose t
 google is always a good place to look should ve mentioned i worked on the mustang w my dad,1,0.162,0.0,0.0,0.991674379341558,0.008325620658442093,0.0,0.0,0.0,0.0,5.836671673676072,Neutral
 played with an android google phone the slide out screen scares me i would break that fucker so fast still prefer my iphone,0,0.085,0.238,0.456172085936038,0.543827914063962,0.0,0.0,0.8806769524933129,0.11932304750668715,0.0,4.467216705421862,Neutral
 us planning to resume the military tribunals at guantanamo bay only this time those on trial will be aig execs and chrysler debt holders,0,0.0,0.098,0.0,0.0,0.0,0.37299840496154973,0.6270015950384503,0.0,0.0,1.670006680026722,Negativo
-omg so bored amp my tattos are so itchy help aha,0,0.185,0.319,0.0,0.9580830527953785,0.04191694720462152,0.0,0.7623770633524202,0.23762293664757997,0.0,5.209842823086758,Neutral
+omg so bored amp my tattoooos are so itchy help aha,0,0.185,0.319,0.0,0.9580830527953785,0.04191694720462152,0.0,0.7623770633524202,0.23762293664757997,0.0,5.209842823086758,Neutral
 i m itchy and miserable,0,0.0,0.841,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.6700066800267186,Negativo
 no i m not itchy for now maybe later lol,0,0.391,0.186,0.0,0.6572216063382932,0.34277839366170687,0.0,0.9566225603368491,0.04337743966315106,0.6572216063382932,4.597344878590213,Neutral
 rt i love the nerdy stanford human biology videos makes me miss school,1,0.263,0.175,0.0,0.8441646410300744,0.1558353589699257,0.0,0.9726879773806739,0.027312022619326096,0.5630218404426902,4.862319866876177,Neutral
 has been a bit crazy with steep learning curve but lyx is really good for long docs for anything shorter it would be insane,1,0.145,0.178,0.07229355836147672,0.9277064416385232,0.0,0.0,0.9683065000050854,0.03169349999491472,0.0,4.964468337238365,Neutral
 i m listening to p y t by danny gokey lt lt lt aww he s so amazing i lt him so much,1,0.245,0.0,0.0,0.8704535052836061,0.12954649471639396,0.0,0.0,0.0,0.0,5.836671673676081,Neutral
 is going to sleep then on a bike ride,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-cannot sleep my tooth is aching,0,0.0,0.39,0.0,0.0,0.0,0.0,0.6586820987968227,0.34131790120317734,0.0,1.670006680026721,Negativo
+cant sleep my tooth is aching,0,0.0,0.39,0.0,0.0,0.0,0.0,0.6586820987968227,0.34131790120317734,0.0,1.670006680026721,Negativo
 blah blah blah same old same old no plans today going back to sleep i guess,0,0.0,0.368,0.0,0.0,0.0,0.0,0.6908129328844727,0.30918706711552746,0.0,1.6700066800267195,Negativo
 glad i didnt do bay to breakers today it s freaking degrees in san francisco wtf,0,0.146,0.32,0.06589558290190069,0.9341044170980993,0.0,0.0,0.7609165708938905,0.2390834291061095,0.0,5.190745801520415,Neutral
 obama administration must stop bonuses to aig ponzi schemers,0,0.281,0.172,0.0,0.8178757767765427,0.18212422322345745,0.0,0.9770694547562627,0.02293054524373747,0.6973793250937868,4.823420391423739,Neutral
@@ -63,30 +63,30 @@ by the way i m totally inspired by this freaky nike commercial,1,0.25,0.179,0.0,
 class the d is supposed to come today,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 needs someone to explain lambda calculus to him,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 took the graduate field exam for computer science today nothing makes you feel like more of an idiot than lambda calculus,0,0.1,0.142,0.36020245404239765,0.6397975459576023,0.0,0.09148748474020481,0.9085125152597952,0.0,0.0,4.626783910250244,Neutral
-shout outs to all east palo alto for being in the buildin karizmakaze cal gta also thanks to profit is of doom universal hempz cracka,1,0.19,0.089,0.0,0.9507805905027309,0.049219409497269224,0.43058018409773396,0.569419815902266,0.0,0.569419815902266,5.410162121217738,Neutral
-yeah i wouldn t really have lived in east palo alto if i could have avoided it i guess it s only for the summer,0,0.097,0.106,0.3793963804211257,0.6206036195788742,0.0,0.32181460128494155,0.6781853987150585,0.0,0.0,4.917860868125243,Neutral
+shout outs to all east palo alto for being in the buildin karizmakaze cal gta also thanks to profits of doom universal hempz cracka,1,0.19,0.089,0.0,0.9507805905027309,0.049219409497269224,0.43058018409773396,0.569419815902266,0.0,0.569419815902266,5.410162121217738,Neutral
+yeahhhhhhhhh i wouldn t really have lived in east palo alto if i could have avoided it i guess it s only for the summer,0,0.097,0.106,0.3793963804211257,0.6206036195788742,0.0,0.32181460128494155,0.6781853987150585,0.0,0.0,4.917860868125243,Neutral
 great stanford course thanks for making it available to the public really helpful and informative for starting off,1,0.402,0.0,0.0,0.6411561892944683,0.35884381070553184,0.0,0.0,0.0,0.0,5.836671673676089,Neutral
-work til pm let us go lakers,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
+work til pm lets go lakers,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 damn you north korea,0,0.0,0.474,0.0,0.0,0.0,0.0,0.5360007322803414,0.4639992677196587,0.0,1.670006680026721,Negativo
 can we just go ahead and blow north korea off the map already,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 north korea please cease this douchebaggery china doesn t even like you anymore,0,0.324,0.0,0.0,0.7550746010597723,0.24492539894022766,0.0,0.0,0.0,0.0,5.836671673676079,Neutral
-why the hell is pelosi in freakin china and on who ise dime,0,0.0,0.277,0.0,0.0,0.0,0.0,0.8237177466106608,0.17628225338933928,0.0,1.670006680026718,Negativo
+why the hell is pelosi in freakin china and on whose dime,0,0.0,0.277,0.0,0.0,0.0,0.0,0.8237177466106608,0.17628225338933928,0.0,1.670006680026718,Negativo
 are you burning more cash than chrysler and gm stop the financial tsunami where bailout means taking a handout,0,0.0,0.184,0.0,0.0,0.0,0.0,0.9595435452539082,0.040456454746091976,0.0,1.6700066800267197,Negativo
 insects have infected my spinach plant,0,0.0,0.39,0.0,0.0,0.0,0.0,0.6586820987968227,0.34131790120317734,0.0,1.670006680026721,Negativo
 wish i could catch every mosquito in the world n burn em slowly they been bitin the shit outta me day mosquitos are the assholes of insects,0,0.206,0.117,0.0,0.9274127111662582,0.07258728883374185,0.25143687122960523,0.7485631287703948,0.0,0.569419815902266,5.198275761793669,Neutral
 just got back from church and i totally hate insects,0,0.0,0.333,0.0,0.0,0.0,0.0,0.7419301689330066,0.25806983106699355,0.0,1.6700066800267213,Negativo
 just got mcdonalds goddam those eggs make me sick o yeah laker up date go lakers not much of an update well it s true so suck it,0,0.189,0.28,0.0,0.9522410829612603,0.04775891703873968,0.0,0.8193362692350722,0.18066373076492792,0.0,5.144571660923803,Neutral
-omgg i ohhdee want mcdonalds damn i wonder if it is open lol,1,0.277,0.182,0.0,0.8237177466106608,0.17628225338933928,0.0,0.9624645301709672,0.03753546982903289,0.6078076686597224,4.847394762459484,Neutral
+omgg i ohhdee want mcdonalds damn i wonder if its open lol,1,0.277,0.182,0.0,0.8237177466106608,0.17628225338933928,0.0,0.9624645301709672,0.03753546982903289,0.6078076686597224,4.847394762459484,Neutral
 history exam studying ugh,0,0.0,0.483,0.0,0.0,0.0,0.0,0.5228563001535755,0.4771436998464246,0.0,1.6700066800267221,Negativo
 i hate revision it s so boring i am totally unprepared for my exam tomorrow things are not looking good,0,0.0,0.394,0.0,0.0,0.0,0.0,0.6528401289627046,0.3471598710372955,0.0,1.6700066800267208,Negativo
 higher physics exam tommorow not lookin forward to it much,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 it s a bank holiday yet i m only out of work now exam season sucks,0,0.178,0.164,0.0,0.9683065000050854,0.03169349999491472,0.0,0.9887533944244988,0.011246605575501178,0.08957165643406423,4.986240786340603,Neutral
-cheney and bush are the real culprit is,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
+cheney and bush are the real culprits,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 life s a bitch and so is dick cheney p bipart tlot tcot hhrs gop dnc,0,0.0,0.401,0.0,0.0,0.0,0.0,0.6426166817529978,0.3573833182470023,0.0,1.6700066800267186,Negativo
 dick cheney s dishonest speech about torture terror and obama fred kaplan slate,0,0.0,0.641,0.0,0.0,0.0,0.0,0.29209849170590807,0.707901508294092,0.0,1.6700066800267224,Negativo
 the republican party is a bunch of anti abortion zealots who couldn t draw flies to a dump neal boortz just now on the radio,0,0.099,0.245,0.3666004295019737,0.6333995704980263,0.0,0.0,0.8704535052836061,0.12954649471639396,0.0,4.665294914407576,Neutral
 is twitter s connections api broken some tweets didn t make it to twitter,0,0.0,0.22,0.0,0.0,0.0,0.0,0.9069658167468447,0.09303418325315543,0.0,1.6700066800267204,Negativo
-i srsly hate the stupid twitter api timeout thing so annoying,0,0.0,0.602,0.0,0.0,0.0,0.0,0.3490576975885602,0.6509423024114399,0.0,1.670006680026717,Negativo
+i srsly hate the stupid twitter api timeout thing soooo annoying,0,0.0,0.602,0.0,0.0,0.0,0.0,0.3490576975885602,0.6509423024114399,0.0,1.670006680026717,Negativo
 i really liked learning jquery book is worth a look too,1,0.416,0.0,0.0,0.6207092948750548,0.37929070512494534,0.0,0.0,0.0,0.0,5.836671673676081,Neutral
 very interesting ad from adobe by goodby silverstein amp partners youtube adobe cs le sens propre,1,0.166,0.0,0.0,0.9858324095074398,0.01416759049256026,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 goodby silverstein agency new site great,1,0.451,0.0,0.0,0.5695920588265208,0.4304079411734793,0.0,0.0,0.0,0.0,5.836671673676067,Neutral
@@ -99,12 +99,12 @@ just got a free g android at google i o,1,0.398,0.0,0.0,0.6469981591285864,0.353
 guess i ll be retiring my g and start using my developer g woot googleio,1,0.203,0.0,0.0,0.9317941885418467,0.06820581145815327,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
 i am happy for philip being at googleio today,1,0.346,0.0,0.0,0.7229437669721226,0.2770562330278775,0.0,0.0,0.0,0.0,5.836671673676084,Neutral
 lakers played great cannot wait for thursday night lakers vs,1,0.448,0.0,0.0,0.5739735362021093,0.4260264637978907,0.0,0.0,0.0,0.0,5.836671673676075,Neutral
-judd apatow creates fake sitcom on nbc com to market his new movie viral marketing at it is best,1,0.248,0.122,0.0,0.8660720279080175,0.13392797209198257,0.2194469939317252,0.7805530060682748,0.0,0.7805530060682748,5.103768357268454,Neutral
-viral marketing fail this acia pills brand oughta get shut down for hacking into people s messenger s i get msgs in a day argh,0,0.0,0.149,0.0,0.0,0.0,0.046701656523172604,0.9532983434768274,0.0,0.0,1.6700066800267184,Negativo
+judd apatow creates fake sitcom on nbc com to market his new movie viral marketing at its best,1,0.248,0.122,0.0,0.8660720279080175,0.13392797209198257,0.2194469939317252,0.7805530060682748,0.0,0.7805530060682748,5.103768357268454,Neutral
+viral marketing fail this acia pills brand oughta get shut down for hacking into people s messenger s i get msgs in a day arrrgh,0,0.0,0.149,0.0,0.0,0.0,0.046701656523172604,0.9532983434768274,0.0,0.0,1.6700066800267184,Negativo
 watching night at the museum lmao,1,0.438,0.0,0.0,0.5885784607874048,0.4114215392125953,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
 i loved night at the museum,1,0.494,0.0,0.0,0.5067908831097505,0.49320911689024954,0.0,0.0,0.0,0.0,5.8366716736760855,Neutral
 just got back from the movies went to see the new night at the museum with rachel it was good,1,0.132,0.0,0.1554672393359649,0.844532760664035,0.0,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
-i will take you on a date to see night at the museum whenever you want it looks so good,1,0.24,0.0,0.0,0.8777559675762538,0.12224403242374624,0.0,0.0,0.0,0.0,5.836671673676083,Neutral
+i will take you on a date to see night at the museum whenever you want it looks soooooo good,1,0.24,0.0,0.0,0.8777559675762538,0.12224403242374624,0.0,0.0,0.0,0.0,5.836671673676083,Neutral
 no watching the night at the museum getting really good,1,0.238,0.164,0.0,0.8806769524933129,0.11932304750668715,0.0,0.9887533944244988,0.011246605575501178,0.4734501840086256,4.889760648440108,Neutral
 night at the museum wolverine and junk food perfect monday,1,0.291,0.0,0.0,0.8032708521912474,0.19672914780875278,0.0,0.0,0.0,0.0,5.836671673676076,Neutral
 saw night at the museum last night pretty crazy movie but the cast was awesome so it was well worth it robin williams forever,1,0.388,0.05,0.0,0.6616030837138818,0.3383969162861183,0.6801012270211988,0.31989877297880115,0.0,0.31989877297880115,4.979646467682841,Neutral
@@ -114,13 +114,13 @@ tell me again why we are giving more to gm we should use that for all the progra
 oh yes but if gm dies it will only be worth more boo hahaha,0,0.464,0.0,0.0,0.5506056568656367,0.4493943431343634,0.0,0.0,0.0,0.0,5.836671673676075,Neutral
 time warner cable is down again rd time since memorial day bummer,0,0.0,0.191,0.0,0.0,0.0,0.0,0.9493200980442013,0.050679901955798766,0.0,1.6700066800267193,Negativo
 i would rather pay reasonable yearly taxes for free fast internet than get gouged by time warner for a slow connection,0,0.152,0.065,0.027507730144444516,0.9724922698555555,0.0,0.5841315951275585,0.41586840487244153,0.0,0.41586840487244153,5.408383088916218,Neutral
-no my dvr just died and i was only half way through the ea presser hate you time warner,0,0.0,0.388,0.0,0.0,0.0,0.0,0.6616030837138818,0.3383969162861183,0.0,1.6700066800267208,Negativo
+nooooooo my dvr just died and i was only half way through the ea presser hate you time warner,0,0.0,0.388,0.0,0.0,0.0,0.0,0.6616030837138818,0.3383969162861183,0.0,1.6700066800267208,Negativo
 f ck time warner cable you f cking suck balls i have a hd tv amp my damn hd channels hardly ever come in bullshit,0,0.0,0.343,0.0,0.0,0.0,0.0,0.7273252443477111,0.272674755652289,0.0,1.6700066800267188,Negativo
 time warner has the worse customer service ever i will never use them again,0,0.0,0.205,0.0,0.0,0.0,0.0,0.9288732036247878,0.07112679637521231,0.0,1.6700066800267195,Negativo
 time warner is the devil worst possible time for the internet to go out,0,0.0,0.415,0.0,0.0,0.0,0.0,0.6221697873335843,0.3778302126664158,0.0,1.6700066800267208,Negativo
 fuck no internet damn time warner,0,0.0,0.737,0.0,0.0,0.0,0.0,0.1518912156870722,0.848108784312928,0.0,1.6700066800267213,Negativo
-time warner really picks the worst time to not work all i want to do is get to mtv com so i can watch the hills wtf,0,0.0,0.299,0.0,0.0,0.0,0.0,0.791586912523011,0.2084130874769891,0.0,1.6700066800267206,Negativo
-i hate time warner so wish i had vios cannot watch the fricken mets game w o buffering i feel like im watching free internet porn,0,0.31,0.123,0.0,0.7755214954791859,0.22447850452081408,0.21304901847214916,0.7869509815278508,0.0,0.7755214954791859,4.992399278242612,Neutral
+time warner really picks the worst time to not work all i want to do is get to mtv com so i can watch the hills wtfffff,0,0.0,0.299,0.0,0.0,0.0,0.0,0.791586912523011,0.2084130874769891,0.0,1.6700066800267206,Negativo
+i hate time warner soooo wish i had vios cant watch the fricken mets game w o buffering i feel like im watching free internet porn,0,0.31,0.123,0.0,0.7755214954791859,0.22447850452081408,0.21304901847214916,0.7869509815278508,0.0,0.7755214954791859,4.992399278242612,Neutral
 ahh got rid of stupid time warner today amp now taking a nap while the roomies cook for me pretty good end for a monday,0,0.207,0.115,0.0,0.9259522187077287,0.0740477812922714,0.2642328221487573,0.7357671778512427,0.0,0.5886137422809941,5.210984667708001,Neutral
 time warner s hd line up is crap,0,0.0,0.302,0.0,0.0,0.0,0.0,0.7872054351474222,0.21279456485257775,0.0,1.6700066800267206,Negativo
 is being fucked by time warner cable didnt know modems could explode and susan boyle sucks too,0,0.0,0.315,0.0,0.0,0.0,0.0,0.7682190331865384,0.2317809668134618,0.0,1.670006680026719,Negativo
@@ -143,14 +143,14 @@ is lovin his nike already and that s only from running on the spot in his bedroo
 i finally got around to using jquery to make my bio collapse yay for slide animations,1,0.173,0.163,0.0,0.975608962297733,0.024391037702267013,0.0,0.9902138868830284,0.009786113116971636,0.06397975459576011,4.992174859733489,Neutral
 right lol we ll get there i have high expectations warren buffet style,1,0.203,0.0,0.0,0.9317941885418467,0.06820581145815327,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
 rt rt great someone s sitting in the shade today because someone planted a tree a long time ago warren buffet,1,0.194,0.0,0.0,0.9449386206686128,0.05506137933138739,0.0,0.0,0.0,0.0,5.836671673676074,Neutral
-warren buffet became for a time the riche ist man in the united states not by working but investing in big idea which lead to the fortune,1,0.071,0.0,0.5457437423701024,0.4542562576298976,0.0,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
+warren buffet became for a time the richest man in the united states not by working but investing in big idea which lead to the fortune,1,0.071,0.0,0.5457437423701024,0.4542562576298976,0.0,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
 according to the create a school notre dame will have receivers in ncaa at or higher rating sweet,1,0.254,0.0,0.0,0.8573090731568402,0.14269092684315982,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
 it s definitely under warranty amp my experience is the amazon support for kindle is great had to contact them about my kindle,1,0.384,0.0,0.0,0.667445053548,0.3325549464520001,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
 time warner road runner customer support here absolutely blows i hate not having other high speed net options i m ready to go nuclear,0,0.191,0.146,0.0,0.9493200980442013,0.050679901955798766,0.06589558290190069,0.9341044170980993,0.0,0.2879088956809211,5.02226427215972,Neutral
-time warner cable phone reps r dumber than nails ugh cable was working mins ago now it is not wtf,0,0.126,0.217,0.19385509209342108,0.8061449079065789,0.0,0.0,0.9113472941224333,0.08865270587756681,0.0,4.8825038865779025,Neutral
+time warner cable phone reps r dumber than nails ugh cable was working mins ago now its not wtf,0,0.126,0.217,0.19385509209342108,0.8061449079065789,0.0,0.0,0.9113472941224333,0.08865270587756681,0.0,4.8825038865779025,Neutral
 we tried but time warner wasn t being nice so we recorded today,0,0.252,0.0,0.0,0.8602300580738993,0.13976994192610073,0.0,0.0,0.0,0.0,5.836671673676055,Neutral
-omg time warner f ed up my internet install instead of today it is now next saturday another week w o internet amp ehfa v fhg fml,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-wth i have never seen a line this long at time warner before ugh,0,0.0,0.383,0.0,0.0,0.0,0.0,0.6689055460065295,0.33109445399347054,0.0,1.6700066800267197,Negativo
+omg time warner f ed up my internet install instead of today its now next saturday another week w o internet amp ehfa v fhg fml,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
+wth i have never seen a line this loooong at time warner before ugh,0,0.0,0.383,0.0,0.0,0.0,0.0,0.6689055460065295,0.33109445399347054,0.0,1.6700066800267197,Negativo
 impatiently awaiting the arrival of the time warner guy it s way too pretty to be inside all afternoon,0,0.146,0.123,0.06589558290190069,0.9341044170980993,0.0,0.21304901847214916,0.7869509815278508,0.0,0.1471534355702485,5.162624930551584,Neutral
 naive bayes using em for text classification really frustrating,0,0.0,0.431,0.0,0.0,0.0,0.0,0.5988019079971116,0.4011980920028885,0.0,1.6700066800267217,Negativo
 we went to stanford university today got a tour made me want to go back to college it s also decided all of our kids will go there,1,0.049,0.0,0.6864992024807749,0.31350079751922516,0.0,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
@@ -158,15 +158,15 @@ if you re being harassed by calls about your car warranty changing your number w
 just blocked united blood services using google voice they call more than those car warranty guys,0,0.148,0.111,0.053099631982748634,0.9469003680172514,0.0,0.28982472398706144,0.7101752760129386,0.0,0.2367250920043128,5.256315422303421,Neutral
 at amp t is complete fail,0,0.0,0.467,0.0,0.0,0.0,0.0,0.5462241794900481,0.453775820509952,0.0,1.6700066800267177,Negativo
 oh snap you work at at amp t don t you,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-i really do not want at amp t phone service they suck when it comes to having a signal,0,0.0,0.239,0.0,0.0,0.0,0.0,0.8792164600347834,0.1207835399652167,0.0,1.6700066800267186,Negativo
-i say we just cut out the small talk at amp t s new slogan fk you give us your money apologies to bob geldof,0,0.0,0.091,0.0,0.0,0.0,0.41778423317858193,0.5822157668214181,0.0,0.0,1.6700066800267188,Negativo
+i really dont want at amp t phone service they suck when it comes to having a signal,0,0.0,0.239,0.0,0.0,0.0,0.0,0.8792164600347834,0.1207835399652167,0.0,1.6700066800267186,Negativo
+i say we just cut out the small talk at amp t s new slogan f__k you give us your money apologies to bob geldof,0,0.0,0.091,0.0,0.0,0.0,0.41778423317858193,0.5822157668214181,0.0,0.0,1.6700066800267188,Negativo
 pissed about at amp t s mid contract upgrade price for the iphone it s more i m not going to pay for something i thought was,0,0.053,0.171,0.6609073006424708,0.3390926993575292,0.0,0.0,0.978529947214792,0.02147005278520797,0.0,3.7195077023662733,Neutral
 safari is fast even on my shitty at amp t tethering,0,0.0,0.286,0.0,0.0,0.0,0.0,0.8105733144838949,0.1894266855161051,0.0,1.6700066800267208,Negativo
 what is at amp t fucking up,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 at amp t dropped the ball and isn t supporting crap with the new iphone fail att sucks,0,0.123,0.366,0.21304901847214916,0.7869509815278508,0.0,0.0,0.6937339178015317,0.30626608219846835,0.0,5.123424903645231,Neutral
 yay glad you got the phone still damn you at amp t,0,0.374,0.158,0.0,0.6820499781332954,0.3179500218667047,0.0,0.9975163491756761,0.0024836508243239264,0.6820499781332954,4.591622828211618,Neutral
 talk is cheap bing that i ll stick with google,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-wtf is the point of deleting tweets if they can still be found in summize and searche is twitter please fix that thanks and bye,0,0.168,0.123,0.0,0.9829114245903807,0.017088575409619344,0.21304901847214916,0.7869509815278508,0.0,0.2879088956809211,5.2048774220061755,Neutral
+wtf is the point of deleting tweets if they can still be found in summize and searches twitter please fix that thanks and bye,0,0.168,0.123,0.0,0.9829114245903807,0.017088575409619344,0.21304901847214916,0.7869509815278508,0.0,0.2879088956809211,5.2048774220061755,Neutral
 i love google translator too d good day mate,1,0.587,0.0,0.0,0.3709650844665033,0.6290349155334968,0.0,0.0,0.0,0.0,6.37846109356769,Neutral
 reading on my new kindle,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 my kindle came and i love it,1,0.457,0.0,0.0,0.5608291040753435,0.4391708959246566,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
@@ -179,7 +179,7 @@ obama s speech was pretty awesome last night,1,0.593,0.0,0.0,0.36220212971532606
 reading bill clinton fail obama win,1,0.336,0.31,0.0,0.7375486915574179,0.2624513084425822,0.0,0.7755214954791859,0.22447850452081408,0.22447850452081408,4.957079789918509,Neutral
 obama more popular than u s among arabs survey president barack obama s popularity in leading arab countries,1,0.323,0.0,0.0,0.7565350935183021,0.24346490648169813,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 obama s got jokes haha just got to watch a bit of his after dinner speech from last night i m in love with mr president,1,0.326,0.0,0.0,0.7521536161427133,0.24784638385728675,0.0,0.0,0.0,0.0,5.836671673676087,Neutral
-lebron james got in a car accident i guess just heard it on evening news wow i cannot believe it will he be ok,0,0.221,0.114,0.0,0.9055053242883151,0.09449467571168499,0.27063079760833336,0.7293692023916667,0.0,0.6845833741746344,5.199964974136244,Neutral
+lebron james got in a car accident i guess just heard it on evening news wow i cant believe it will he be ok,0,0.221,0.114,0.0,0.9055053242883151,0.09449467571168499,0.27063079760833336,0.7293692023916667,0.0,0.6845833741746344,5.199964974136244,Neutral
 is it me or is this the best the playoffs have been in years oh yea lebron and melo in the finals,1,0.167,0.0,0.0,0.9843719170489102,0.015628082951089802,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
 no lebron is the best,1,0.447,0.234,0.0,0.575434028660639,0.42456597133936114,0.0,0.8865189223274311,0.11348107767256903,0.575434028660639,4.528668511749845,Neutral
 lebron is cool i like his personality he has good character,1,0.524,0.0,0.0,0.4629761093538643,0.5370238906461358,0.0,0.0,0.0,0.0,5.978450025320017,Neutral
@@ -190,26 +190,26 @@ when lebron is done in the nba he will probably be greater than kobe like u said
 kobe is good bt lebron has my vote,1,0.293,0.0,0.0,0.8003498672741883,0.19965013272581186,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 kobe is the best in the world not lebron,0,0.344,0.0,0.0,0.7258647518891816,0.2741352481108184,0.0,0.0,0.0,0.0,5.836671673676082,Neutral
 world cup access damn that s a good look,1,0.274,0.255,0.0,0.8280992239862495,0.17190077601375067,0.0,0.8558485806983107,0.14415141930168937,0.14415141930168937,4.974308110408436,Neutral
-just bought my tickets for the fifa world cup in south africa it is going to be a great summer,1,0.186,0.0,0.0,0.9566225603368491,0.04337743966315106,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
+just bought my tickets for the fifa world cup in south africa its going to be a great summer,1,0.186,0.0,0.0,0.9566225603368491,0.04337743966315106,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
 i have to go to booz allen hamilton for a hr meeting but then i get to go home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 the great indian tamasha truly will unfold from may the result day for indian general election,1,0.333,0.0,0.0,0.7419301689330066,0.25806983106699355,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
 i have the kindle i ve seen pictures of the dx but haven t seen it in person i love my kindle i m on it everyday,1,0.212,0.092,0.0,0.9186497564150811,0.0813502435849191,0.4113862577190059,0.5886137422809942,0.0,0.5886137422809942,5.367700680618433,Neutral
 such an awesome idea the continual learning program with a kindle,1,0.313,0.0,0.0,0.7711400181035974,0.22885998189640272,0.0,0.0,0.0,0.0,5.836671673676074,Neutral
-oh what model are you getting i have the d and love love love love it,1,0.627,0.0,0.0,0.3125453861253216,0.6874546138746784,0.0,0.0,0.0,0.0,6.663582205747022,Neutral
+ooooh what model are you getting i have the d and love love love love it,1,0.627,0.0,0.0,0.3125453861253216,0.6874546138746784,0.0,0.0,0.0,0.0,6.663582205747022,Neutral
 the times of india the wonder that is india s election,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 good video from google on using search options,1,0.293,0.0,0.0,0.8003498672741883,0.19965013272581186,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 lol ah my skin is itchy damn lawnmowing,0,0.222,0.381,0.0,0.9040448318297856,0.09595516817021453,0.0,0.6718265309235886,0.3281734690764115,0.0,5.263308521700554,Neutral
-itchy back do not ya hate it,0,0.297,0.208,0.0,0.7945078974400701,0.20549210255993003,0.0,0.9244917262491992,0.07550827375080094,0.569419815902266,4.85184414396564,Neutral
+itchy back dont ya hate it,0,0.297,0.208,0.0,0.7945078974400701,0.20549210255993003,0.0,0.9244917262491992,0.07550827375080094,0.569419815902266,4.85184414396564,Neutral
 stanford charity fashion show a top draw,1,0.535,0.0,0.0,0.4469106923100393,0.5530893076899608,0.0,0.0,0.0,0.0,6.043514596455087,Neutral
 stanford university s facebook profile is one of the most popular official university pages,1,0.205,0.0,0.0,0.9288732036247878,0.07112679637521231,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
 lyx is cool,1,0.535,0.0,0.0,0.4469106923100393,0.5530893076899608,0.0,0.0,0.0,0.0,6.043514596455087,Neutral
-so dissapointed they sent danny gokey home you still rock danny my hometown hero yeah milrockee,1,0.293,0.0,0.0,0.8003498672741883,0.19965013272581186,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
+sooo dissapointed they sent danny gokey home you still rock danny my hometown hero yeah milrockee,1,0.293,0.0,0.0,0.8003498672741883,0.19965013272581186,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 rt american idol fashion adam lambert tones down danny gokey cute,1,0.231,0.0,0.0,0.8909003997030197,0.1090996002969804,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 i love you danny gokey,1,0.583,0.0,0.0,0.37680705430062145,0.6231929456993786,0.0,0.0,0.0,0.0,6.351178312087261,Neutral
 so tired i didn t sleep well at all last night,0,0.171,0.26,0.0,0.978529947214792,0.02147005278520797,0.0,0.848546118405663,0.15145388159433706,0.0,5.137818023145746,Neutral
 boarding plane for san francisco in hour hr flight blech,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 bonjour san francisco my back hurts from last night,0,0.0,0.279,0.0,0.0,0.0,0.0,0.8207967616936017,0.17920323830639837,0.0,1.6700066800267208,Negativo
-with my best girl for a few more hours in san francisco mfamily is wonderful,1,0.397,0.0,0.0,0.6484586515871159,0.35154134841288415,0.0,0.0,0.0,0.0,5.836671673676084,Neutral
+with my best girl for a few more hours in san francisco mmmmmfamily is wonderful,1,0.397,0.0,0.0,0.6484586515871159,0.35154134841288415,0.0,0.0,0.0,0.0,5.836671673676084,Neutral
 f up big or go home aig,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 went to see the star trek movie last night very satisfying,1,0.248,0.0,0.0,0.8660720279080175,0.13392797209198257,0.0,0.0,0.0,0.0,5.8366716736760855,Neutral
 i can t wait going to see star trek tonight,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
@@ -217,7 +217,7 @@ star trek was as good as everyone said,1,0.293,0.0,0.0,0.8003498672741883,0.1996
 am loving new malcolm gladwell book outliers,1,0.394,0.0,0.0,0.6528401289627046,0.3471598710372955,0.0,0.0,0.0,0.0,5.836671673676081,Neutral
 i highly recommend malcolm gladwell s the tipping point my next audiobook will probably be one of his as well,1,0.234,0.0,0.0,0.8865189223274311,0.11348107767256903,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
 malcolm gladwell is a genius at tricking people into not realizing he s a fucking idiot,0,0.07,0.229,0.5521417178296784,0.44785828217032164,0.0,0.0,0.8938213846200788,0.10617861537992132,0.0,4.200986475465423,Neutral
-hey no offense but malcolm gladwell is a pretenious annoying cunt and he brings you down cannot read his shit,0,0.135,0.38,0.13627331295723683,0.8637266870427631,0.0,0.0,0.6732870233821181,0.32671297661788196,0.0,5.22629869390981,Neutral
+hey no offense but malcolm gladwell is a pretenious annoying cunt and he brings you down cant read his shit,0,0.135,0.38,0.13627331295723683,0.8637266870427631,0.0,0.0,0.6732870233821181,0.32671297661788196,0.0,5.22629869390981,Neutral
 rt great article by malcolm gladwell,1,0.451,0.0,0.0,0.5695920588265208,0.4304079411734793,0.0,0.0,0.0,0.0,5.836671673676067,Neutral
 i seriously underestimated malcolm gladwell i want to meet this dude,1,0.117,0.342,0.25143687122960523,0.7485631287703948,0.0,0.0,0.7287857368062407,0.2712142631937594,0.0,5.0324099704025596,Neutral
 i hate comcast right now everything is down cable internet amp phone ughh what am i to do,0,0.0,0.198,0.0,0.0,0.0,0.0,0.9390966508344946,0.06090334916550556,0.0,1.6700066800267213,Negativo
@@ -225,7 +225,7 @@ comcast sucks,0,0.0,0.714,0.0,0.0,0.0,0.0,0.18548254223325164,0.8145174577667483
 the day i never have to deal with comcast again will rank as one of the best days of my life,0,0.181,0.0,0.0,0.9639250226294966,0.03607497737050335,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
 did comcast fail again,0,0.0,0.538,0.0,0.0,0.0,0.0,0.4425292149344507,0.5574707850655494,0.0,1.670006680026718,Negativo
 curses the twitter api limit,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-now i can see why dave winer screams about lack of twitter api it is limitations and access throttles,0,0.0,0.22,0.0,0.0,0.0,0.0,0.9069658167468447,0.09303418325315543,0.0,1.6700066800267204,Negativo
+now i can see why dave winer screams about lack of twitter api its limitations and access throttles,0,0.0,0.22,0.0,0.0,0.0,0.0,0.9069658167468447,0.09303418325315543,0.0,1.6700066800267204,Negativo
 arg twitter api is making me crazy,0,0.0,0.286,0.0,0.0,0.0,0.0,0.8105733144838949,0.1894266855161051,0.0,1.6700066800267208,Negativo
 i m really loving the new search site wolfram alpha makes google seem so quaint,1,0.259,0.0,0.0,0.8500066108641926,0.14999338913580754,0.0,0.0,0.0,0.0,5.836671673676084,Neutral
 wolfram alpha sucks even for researchers the information provided is less than you can get from google or wikipedia totally useless,0,0.0,0.227,0.0,0.0,0.0,0.0,0.8967423695371379,0.10325763046286224,0.0,1.6700066800267195,Negativo
@@ -240,22 +240,22 @@ just picked up my new canon d it s beautiful prepare for some seriously awesome 
 just got my new toy canon d love love love it,1,0.643,0.0,0.0,0.28917750678884896,0.7108224932111511,0.0,0.0,0.0,0.0,6.78321385346055,Positivo
 learning about lambda calculus,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 i m moving to east palo alto,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-atebit is i just finished watching your stanford iphone class session i really appreciate it you rock,1,0.176,0.0,0.0,0.9712274849221445,0.02877251507785564,0.0,0.0,0.0,0.0,5.836671673676083,Neutral
+atebits i just finished watching your stanford iphone class session i really appreciate it you rock,1,0.176,0.0,0.0,0.9712274849221445,0.02877251507785564,0.0,0.0,0.0,0.0,5.836671673676083,Neutral
 hi just saw your stanford talk and really liked your advice just saying hi from singapore yes the videos do get around,1,0.225,0.0,0.0,0.899663354454197,0.10033664554580315,0.0,0.0,0.0,0.0,5.836671673676085,Neutral
 lakers tonight let s go,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 will the lakers kick the nuggets ass tonight,1,0.0,0.333,0.0,0.0,0.0,0.0,0.7419301689330066,0.25806983106699355,0.0,1.6700066800267213,Negativo
-oh north korea is in trouble,0,0.0,0.351,0.0,0.0,0.0,0.0,0.7156413046794748,0.2843586953205252,0.0,1.6700066800267195,Negativo
+oooooooh north korea is in troubleeeee,0,0.0,0.351,0.0,0.0,0.0,0.0,0.7156413046794748,0.2843586953205252,0.0,1.6700066800267195,Negativo
 wat the heck is north korea doing they just conducted powerful nuclear tests follow the link,0,0.157,0.0,0.0,0.9989768416342056,0.0010231583657943845,0.0,0.0,0.0,0.0,5.836671673676082,Neutral
 listening to obama friggin north korea,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 i just realized we three monkeys in the white obama biden pelosi sarah palin,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 pelosi should stay in china and never come back,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 nancy pelosi gave the worst commencement speech i ve ever heard yes i m still bitter about this,0,0.125,0.319,0.20025306755299713,0.7997469324470029,0.0,0.0,0.7623770633524202,0.23762293664757997,0.0,5.052316656262238,Neutral
-ugh the amount of times the ise stupid insects have bitten me grr,0,0.0,0.36,0.0,0.0,0.0,0.0,0.702496872552709,0.29750312744729107,0.0,1.67000668002672,Negativo
+ugh the amount of times these stupid insects have bitten me grr,0,0.0,0.36,0.0,0.0,0.0,0.0,0.702496872552709,0.29750312744729107,0.0,1.67000668002672,Negativo
 prettiest insects ever pink katydids,1,0.481,0.0,0.0,0.5257772850706346,0.4742227149293655,0.0,0.0,0.0,0.0,5.836671673676083,Neutral
 just got barraged by a horde of insects hungry for my kitchen light so scary,0,0.0,0.24,0.0,0.0,0.0,0.0,0.8777559675762538,0.12224403242374624,0.0,1.670006680026719,Negativo
-just had mcdonalds for dinner d it was god big mac meal,1,0.174,0.0,0.0,0.9741484698392036,0.025851530160796554,0.0,0.0,0.0,0.0,5.836671673676083,Neutral
+just had mcdonalds for dinner d it was goooood big mac meal,1,0.174,0.0,0.0,0.9741484698392036,0.025851530160796554,0.0,0.0,0.0,0.0,5.836671673676083,Neutral
 ahh yes lol ima tell my hubby to go get me sum mcdonalds,1,0.333,0.0,0.0,0.7419301689330066,0.25806983106699355,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
-stopped to have lunch at mcdonalds chicken nuggets yumy,1,0.0,0.192,0.0,0.0,0.0,0.0,0.9478596055856718,0.05214039441432831,0.0,1.6700066800267193,Negativo
+stopped to have lunch at mcdonalds chicken nuggetssss yummmmmy,1,0.0,0.192,0.0,0.0,0.0,0.0,0.9478596055856718,0.05214039441432831,0.0,1.6700066800267193,Negativo
 could go for a lot of mcdonalds i mean a lot,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 my exam went good your prayers worked,1,0.326,0.0,0.0,0.7521536161427133,0.24784638385728675,0.0,0.0,0.0,0.0,5.836671673676087,Neutral
 only one exam left and i am so happy for it d,1,0.345,0.0,0.0,0.7244042594306521,0.275595740569348,0.0,0.0,0.0,0.0,5.836671673676082,Neutral
@@ -274,7 +274,7 @@ html demos lots of great stuff to come yes i m excited io googleio,1,0.505,0.0,0
 yay happy place place place i love google,1,0.739,0.0,0.0,0.14897023077001312,0.8510297692299871,0.0,0.0,0.0,0.0,7.541778724812758,Positivo
 googleio o d bringing d graphics to the browser very nice tbh funfun,1,0.256,0.0,0.0,0.8543880882397812,0.1456119117602189,0.0,0.0,0.0,0.0,5.836671673676069,Neutral
 awesome viral marketing for funny people,1,0.636,0.0,0.0,0.29940095399855576,0.7005990460014443,0.0,0.0,0.0,0.0,6.730525091385791,Positivo
-saw night at the museum out of sheer desperation who is funding the ise movies,0,0.0,0.176,0.0,0.0,0.0,0.0,0.9712274849221445,0.02877251507785564,0.0,1.6700066800267201,Negativo
+saw night at the museum out of sheer desperation who is funding these movies,0,0.0,0.176,0.0,0.0,0.0,0.0,0.9712274849221445,0.02877251507785564,0.0,1.6700066800267201,Negativo
 night at the museum pretty furkin good,1,0.55,0.0,0.0,0.4250033054320962,0.5749966945679039,0.0,0.0,0.0,0.0,6.135596199639866,Neutral
 watching night at the museum giggling,1,0.333,0.0,0.0,0.7419301689330066,0.25806983106699355,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
 back from seeing star trek and night at the museum star trek was amazing but night at the museum was eh,0,0.107,0.0,0.31541662582536556,0.6845833741746344,0.0,0.0,0.0,0.0,0.0,5.836671673676076,Neutral
@@ -299,7 +299,7 @@ i am furious with time warner and their phone promotions,0,0.0,0.316,0.0,0.0,0.0
 just got home from chick fil a with the boys damn my internets down stupid time warner,0,0.0,0.303,0.0,0.0,0.0,0.0,0.7857449426888928,0.2142550573111073,0.0,1.6700066800267204,Negativo
 could time warner cable suck more no,0,0.0,0.519,0.0,0.0,0.0,0.0,0.470278571646512,0.5297214283534881,0.0,1.6700066800267213,Negativo
 pissed at time warner for causin me to have slow internet problems,0,0.0,0.408,0.0,0.0,0.0,0.0,0.6323932345432911,0.367606765456709,0.0,1.6700066800267208,Negativo
-um having some time warner problems,0,0.0,0.351,0.0,0.0,0.0,0.0,0.7156413046794748,0.2843586953205252,0.0,1.6700066800267195,Negativo
+ummm having some time warner problems,0,0.0,0.351,0.0,0.0,0.0,0.0,0.7156413046794748,0.2843586953205252,0.0,1.6700066800267195,Negativo
 you guys see this why does time warner have to suck so much ass really wish i could get u verse at my apartment,0,0.104,0.233,0.33461055220409364,0.6653894477959064,0.0,0.0,0.8879794147859607,0.11202058521403949,0.0,4.699325316555054,Neutral
 rt the upside to time warner unhelpful phone operators superslow on site service crap that s not an upside,0,0.0,0.133,0.0,0.0,0.0,0.14906926387638889,0.8509307361236111,0.0,0.0,1.6700066800267208,Negativo
 rt new time warner slogan time warner where we make you long for the days before cable,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
@@ -307,29 +307,29 @@ confirmed it s time warner s fault not facebook s that fb is taking about minute
 time warner epic fail,0,0.0,0.538,0.0,0.0,0.0,0.0,0.4425292149344507,0.5574707850655494,0.0,1.670006680026718,Negativo
 i know how sad is that rt st day of hurricane season that s less scarey than govt taking over gm,0,0.0,0.245,0.0,0.0,0.0,0.0,0.8704535052836061,0.12954649471639396,0.0,1.6700066800267204,Negativo
 gm files bankruptcy not a good sign,0,0.0,0.325,0.0,0.0,0.0,0.0,0.7536141086012429,0.24638589139875722,0.0,1.670006680026721,Negativo
-yankees won mets lost it is a good day,1,0.475,0.165,0.0,0.5345402398218119,0.46545976017818824,0.0,0.9872929019659693,0.01270709803403072,0.5345402398218119,4.301029305021511,Neutral
+yankees won mets lost its a good day,1,0.475,0.165,0.0,0.5345402398218119,0.46545976017818824,0.0,0.9872929019659693,0.01270709803403072,0.5345402398218119,4.301029305021511,Neutral
 my dentist appt today was actually quite enjoyable,1,0.313,0.0,0.0,0.7711400181035974,0.22885998189640272,0.0,0.0,0.0,0.0,5.836671673676074,Neutral
 i hate the effing dentist,0,0.0,0.552,0.0,0.0,0.0,0.0,0.42208232051503713,0.577917679484963,0.0,1.6700066800267195,Negativo
 i hate going to the dentist,0,0.0,0.481,0.0,0.0,0.0,0.0,0.5257772850706346,0.4742227149293655,0.0,1.6700066800267201,Negativo
 i hate the dentist who invented them anyways,0,0.0,0.381,0.0,0.0,0.0,0.0,0.6718265309235886,0.3281734690764115,0.0,1.6700066800267197,Negativo
 this dentist s office is cold,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-just applied at safeway ye,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
+just applied at safeway yeeeee,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 safeway place is a nightmare right now bumming,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
-hate safeway select green tea icecream bought two cartons what a waste of money gt lt,0,0.102,0.316,0.34740650312324567,0.6525934968767543,0.0,0.0,0.7667585407280086,0.23324145927199133,0.0,4.841425774636463,Neutral
+hate safeway select green tea icecream bought two cartons what a waste of money gt _ lt,0,0.102,0.316,0.34740650312324567,0.6525934968767543,0.0,0.0,0.7667585407280086,0.23324145927199133,0.0,4.841425774636463,Neutral
 nike rocks i m super grateful for what i ve done with them amp the european division of nike is beyond,1,0.301,0.0,0.0,0.788665927605952,0.21133407239404822,0.0,0.0,0.0,0.0,5.8366716736760775,Neutral
 have you tried nike v addictive,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 the nike training club beta iphone app looks very interesting,1,0.25,0.0,0.0,0.8631510429909585,0.13684895700904165,0.0,0.0,0.0,0.0,5.83667167367606,Neutral
-arggh why won t my jquery appear in safari bad safari,0,0.243,0.23,0.0,0.8733744902006653,0.12662550979933487,0.0,0.8923608921615492,0.10763910783845086,0.10763910783845086,4.985639772661962,Neutral
+argghhhh why won t my jquery appear in safari bad safari,0,0.243,0.23,0.0,0.8733744902006653,0.12662550979933487,0.0,0.8923608921615492,0.10763910783845086,0.10763910783845086,4.985639772661962,Neutral
 i m ready to drop the pretenses i am forever in love with jquery and i want to marry it sorry ladies this nerd is jquery spokenfor js,1,0.253,0.177,0.0,0.8587695656153698,0.1412304343846303,0.0,0.9697669924636149,0.030233007536385182,0.48624613492777785,4.883667243691155,Neutral
 super investors a great weekend read here from warren buffet oldie but a goodie,1,0.333,0.0,0.0,0.7419301689330066,0.25806983106699355,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
 reading michael palin book the python years great book i also recommend warren buffet amp nelson mandela s bio,1,0.306,0.0,0.0,0.781363465313304,0.21863653468669592,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
 i mean i m down with notre dame if i have to it s a good school i d be closer to dan i d enjoy it,1,0.289,0.0,0.0,0.8061918371083064,0.1938081628916937,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
-i can t watch tv without a tivo and after all the ise years the time warner dvr still sucks,0,0.0,0.135,0.0,0.0,0.0,0.13627331295723683,0.8637266870427631,0.0,0.0,1.6700066800267208,Negativo
+i can t watch tv without a tivo and after all these years the time warner dvr still sucks,0,0.0,0.135,0.0,0.0,0.0,0.13627331295723683,0.8637266870427631,0.0,0.0,1.6700066800267208,Negativo
 i d say some sports writers are idiots for saying roger federer is one of the best ever in tennis roger federer is the best ever in tennis,1,0.259,0.0,0.0,0.8500066108641926,0.14999338913580754,0.0,0.0,0.0,0.0,5.836671673676084,Neutral
 i still love my kindle but reading the new york times on it does not feel natural i miss the bloomingdale ads,0,0.178,0.111,0.0,0.9683065000050854,0.03169349999491472,0.28982472398706144,0.7101752760129386,0.0,0.4286643557915935,5.273206148293308,Neutral
 i love my kindle no more stacks of books to trip over on the way to the loo,1,0.196,0.103,0.0,0.9420176357515537,0.05798236424844647,0.3410085276636697,0.6589914723363304,0.0,0.5950117177405703,5.30774639440771,Neutral
 although today s keynote rocked for every great announcement at amp t shit on us just a little bit more,0,0.181,0.159,0.0,0.9639250226294966,0.03607497737050335,0.0,0.9960558567171466,0.003944143282853468,0.14075546011067244,4.974477520336611,Neutral
-it is not so much my obsession with cell phones but the iphone i m a slave to at amp t forever because of it,0,0.0,0.084,0.0,0.0,0.0,0.462570061395614,0.5374299386043859,0.0,0.0,1.6700066800267208,Negativo
+its not so much my obsession with cell phones but the iphone i m a slave to at amp t forever because of it,0,0.0,0.084,0.0,0.0,0.0,0.462570061395614,0.5374299386043859,0.0,0.0,1.6700066800267208,Negativo
 fuzzball is more fun than at amp t p,0,0.375,0.0,0.0,0.6805894856747658,0.3194105143252342,0.0,0.0,0.0,0.0,5.836671673676082,Neutral
 today is a good day to dislike at amp t vote out of office indeed,0,0.176,0.158,0.0,0.9712274849221445,0.02877251507785564,0.0,0.9975163491756761,0.0024836508243239264,0.11516355827236834,4.980505728497507,Neutral
 got my wave sandbox invite extra excited too bad i have class now but i ll play with it soon enough io wave,1,0.241,0.089,0.0,0.8762954751177243,0.12370452488227578,0.43058018409773396,0.569419815902266,0.0,0.569419815902266,5.358471779239735,Neutral
@@ -342,7 +342,7 @@ i have a google addiction thank you for pointing that out hahaha,1,0.433,0.0,0.0
 dearest you rich bastards the visa card you sent me doesn t work why screw a little guy like me,0,0.339,0.194,0.0,0.7331672141818294,0.2668327858181708,0.0,0.9449386206686128,0.05506137933138739,0.7331672141818294,4.739121323327301,Neutral
 excited about seeing bobby flay and guy fieri tomorrow at the great american food amp music fest,1,0.302,0.0,0.0,0.7872054351474222,0.21279456485257775,0.0,0.0,0.0,0.0,5.836671673676077,Neutral
 gonna go see bobby flay moro at shoreline eat and drink gonna be good,1,0.182,0.0,0.0,0.9624645301709672,0.03753546982903289,0.0,0.0,0.0,0.0,5.836671673676078,Neutral
-can t wait for the great american food and music festival at shoreline tomorrow m katz pastrami and bobby flay yes please,1,0.435,0.0,0.0,0.5929599381629934,0.40704006183700664,0.0,0.0,0.0,0.0,5.836671673676084,Neutral
+can t wait for the great american food and music festival at shoreline tomorrow mmm katz pastrami and bobby flay yes please,1,0.435,0.0,0.0,0.5929599381629934,0.40704006183700664,0.0,0.0,0.0,0.0,5.836671673676084,Neutral
 my dad was in ny for a day we ate at mesa grill last night and met bobby flay so much fun except i completely lost my voice today,1,0.115,0.083,0.2642328221487573,0.7357671778512427,0.0,0.46896803685519006,0.5310319631448099,0.0,0.2642328221487573,5.285115337288214,Neutral
 fighting with latex again,0,0.0,0.455,0.0,0.0,0.0,0.0,0.5637500889924026,0.43624991100759747,0.0,1.6700066800267224,Negativo
 we love you too and don t want you to die latex the devil,0,0.241,0.364,0.0,0.8762954751177243,0.12370452488227578,0.0,0.6966549027185908,0.30334509728140924,0.0,5.210584941336328,Neutral
@@ -355,6 +355,6 @@ i just created my first latex file from scratch that didn t work out very well s
 using linux and loving it so much nicer than windows looking forward to using the wysiwyg latex editor,1,0.307,0.0,0.0,0.7799029728547747,0.22009702714522547,0.0,0.0,0.0,0.0,5.83667167367608,Neutral
 after using latex a lot any other typeset mathematics just looks hideous,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 on that note i hate word i hate pages i hate latex there i said it i hate latex all you texn rds can come kill me now,0,0.0,0.52,0.0,0.0,0.0,0.0,0.46881807918798246,0.5311819208120176,0.0,1.6700066800267215,Negativo
-ah back in a real text editing environment i lt latex,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
+ahhh back in a real text editing environment i lt latex,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Neutral
 trouble in iran i see hmm iran iran so far away flockofseagullsweregeopoliticallycorrect,0,0.0,0.213,0.0,0.0,0.0,0.0,0.9171892639565514,0.08281073604344864,0.0,1.6700066800267195,Negativo
 reading the tweets coming out of iran the whole thing is terrifying and incredibly sad,0,0.0,0.353,0.0,0.0,0.0,0.0,0.7127203197624158,0.2872796802375843,0.0,1.6700066800267184,Negativo
